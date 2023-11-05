@@ -1,0 +1,16 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "shirosuke0046 <shirosuke.0046@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.76",
+    "@types/node": "^20.8.10",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
